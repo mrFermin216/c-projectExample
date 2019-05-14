@@ -1,0 +1,6 @@
+c:\users\férmin gutiérrez\documents\visual studio 2015\Projects\metodos1\metodos1\bin\Debug\metodos1.exe.config
+C:\Users\FérmiN GutiérreZ\Documents\Visual Studio 2015\Projects\metodos1\metodos1\bin\Debug\metodos1.exe
+C:\Users\FérmiN GutiérreZ\Documents\Visual Studio 2015\Projects\metodos1\metodos1\bin\Debug\metodos1.pdb
+C:\Users\FérmiN GutiérreZ\Documents\Visual Studio 2015\Projects\metodos1\metodos1\obj\Debug\metodos1.csprojResolveAssemblyReference.cache
+C:\Users\FérmiN GutiérreZ\Documents\Visual Studio 2015\Projects\metodos1\metodos1\obj\Debug\metodos1.exe
+C:\Users\FérmiN GutiérreZ\Documents\Visual Studio 2015\Projects\metodos1\metodos1\obj\Debug\metodos1.pdb
