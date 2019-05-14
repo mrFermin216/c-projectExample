@@ -52,6 +52,8 @@ namespace metodos1
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds);
             Console.ReadKey();
+
+            //Comentario por R3N1055
         }
     }
 }
